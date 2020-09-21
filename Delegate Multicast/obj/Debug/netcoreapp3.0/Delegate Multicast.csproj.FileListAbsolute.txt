@@ -1,0 +1,11 @@
+C:\Users\cmacl\source\repos\Delegate Multicast\bin\Debug\netcoreapp3.0\Delegate Multicast.exe
+C:\Users\cmacl\source\repos\Delegate Multicast\bin\Debug\netcoreapp3.0\Delegate Multicast.deps.json
+C:\Users\cmacl\source\repos\Delegate Multicast\bin\Debug\netcoreapp3.0\Delegate Multicast.runtimeconfig.json
+C:\Users\cmacl\source\repos\Delegate Multicast\bin\Debug\netcoreapp3.0\Delegate Multicast.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Delegate Multicast\bin\Debug\netcoreapp3.0\Delegate Multicast.dll
+C:\Users\cmacl\source\repos\Delegate Multicast\bin\Debug\netcoreapp3.0\Delegate Multicast.pdb
+C:\Users\cmacl\source\repos\Delegate Multicast\obj\Debug\netcoreapp3.0\Delegate Multicast.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Delegate Multicast\obj\Debug\netcoreapp3.0\Delegate Multicast.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Delegate Multicast\obj\Debug\netcoreapp3.0\Delegate Multicast.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Delegate Multicast\obj\Debug\netcoreapp3.0\Delegate Multicast.dll
+C:\Users\cmacl\source\repos\Delegate Multicast\obj\Debug\netcoreapp3.0\Delegate Multicast.pdb

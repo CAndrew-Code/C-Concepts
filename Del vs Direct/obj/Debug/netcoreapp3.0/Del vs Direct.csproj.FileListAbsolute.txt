@@ -1,0 +1,11 @@
+C:\Users\cmacl\source\repos\Del vs Direct\obj\Debug\netcoreapp3.0\Del vs Direct.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Del vs Direct\obj\Debug\netcoreapp3.0\Del vs Direct.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Del vs Direct\obj\Debug\netcoreapp3.0\Del vs Direct.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Del vs Direct\bin\Debug\netcoreapp3.0\Del vs Direct.exe
+C:\Users\cmacl\source\repos\Del vs Direct\bin\Debug\netcoreapp3.0\Del vs Direct.deps.json
+C:\Users\cmacl\source\repos\Del vs Direct\bin\Debug\netcoreapp3.0\Del vs Direct.runtimeconfig.json
+C:\Users\cmacl\source\repos\Del vs Direct\bin\Debug\netcoreapp3.0\Del vs Direct.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Del vs Direct\bin\Debug\netcoreapp3.0\Del vs Direct.dll
+C:\Users\cmacl\source\repos\Del vs Direct\bin\Debug\netcoreapp3.0\Del vs Direct.pdb
+C:\Users\cmacl\source\repos\Del vs Direct\obj\Debug\netcoreapp3.0\Del vs Direct.dll
+C:\Users\cmacl\source\repos\Del vs Direct\obj\Debug\netcoreapp3.0\Del vs Direct.pdb
