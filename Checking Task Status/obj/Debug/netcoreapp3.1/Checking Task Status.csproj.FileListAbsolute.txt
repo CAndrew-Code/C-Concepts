@@ -1,0 +1,13 @@
+C:\Users\cmacl\source\repos\Checking Task Status\bin\Debug\netcoreapp3.1\Checking Task Status.exe
+C:\Users\cmacl\source\repos\Checking Task Status\bin\Debug\netcoreapp3.1\Checking Task Status.deps.json
+C:\Users\cmacl\source\repos\Checking Task Status\bin\Debug\netcoreapp3.1\Checking Task Status.runtimeconfig.json
+C:\Users\cmacl\source\repos\Checking Task Status\bin\Debug\netcoreapp3.1\Checking Task Status.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Checking Task Status\bin\Debug\netcoreapp3.1\Checking Task Status.dll
+C:\Users\cmacl\source\repos\Checking Task Status\bin\Debug\netcoreapp3.1\Checking Task Status.pdb
+C:\Users\cmacl\source\repos\Checking Task Status\obj\Debug\netcoreapp3.1\Checking Task Status.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Checking Task Status\obj\Debug\netcoreapp3.1\Checking Task Status.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Checking Task Status\obj\Debug\netcoreapp3.1\Checking Task Status.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Checking Task Status\obj\Debug\netcoreapp3.1\Checking Task Status.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\Checking Task Status\obj\Debug\netcoreapp3.1\Checking Task Status.dll
+C:\Users\cmacl\source\repos\Checking Task Status\obj\Debug\netcoreapp3.1\Checking Task Status.pdb
+C:\Users\cmacl\source\repos\Checking Task Status\obj\Debug\netcoreapp3.1\Checking Task Status.genruntimeconfig.cache

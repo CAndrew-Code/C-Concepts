@@ -1,0 +1,12 @@
+C:\Users\cmacl\source\repos\Concurrent Collections\bin\Debug\netcoreapp3.1\Concurrent Collections.exe
+C:\Users\cmacl\source\repos\Concurrent Collections\bin\Debug\netcoreapp3.1\Concurrent Collections.deps.json
+C:\Users\cmacl\source\repos\Concurrent Collections\bin\Debug\netcoreapp3.1\Concurrent Collections.runtimeconfig.json
+C:\Users\cmacl\source\repos\Concurrent Collections\bin\Debug\netcoreapp3.1\Concurrent Collections.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Concurrent Collections\bin\Debug\netcoreapp3.1\Concurrent Collections.dll
+C:\Users\cmacl\source\repos\Concurrent Collections\bin\Debug\netcoreapp3.1\Concurrent Collections.pdb
+C:\Users\cmacl\source\repos\Concurrent Collections\obj\Debug\netcoreapp3.1\Concurrent Collections.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Concurrent Collections\obj\Debug\netcoreapp3.1\Concurrent Collections.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Concurrent Collections\obj\Debug\netcoreapp3.1\Concurrent Collections.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\Concurrent Collections\obj\Debug\netcoreapp3.1\Concurrent Collections.dll
+C:\Users\cmacl\source\repos\Concurrent Collections\obj\Debug\netcoreapp3.1\Concurrent Collections.pdb
+C:\Users\cmacl\source\repos\Concurrent Collections\obj\Debug\netcoreapp3.1\Concurrent Collections.genruntimeconfig.cache
