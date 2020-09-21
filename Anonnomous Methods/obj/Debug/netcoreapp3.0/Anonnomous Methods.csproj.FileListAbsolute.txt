@@ -1,0 +1,11 @@
+C:\Users\cmacl\source\repos\Anonnomous Methods\bin\Debug\netcoreapp3.0\Anonnomous Methods.exe
+C:\Users\cmacl\source\repos\Anonnomous Methods\bin\Debug\netcoreapp3.0\Anonnomous Methods.deps.json
+C:\Users\cmacl\source\repos\Anonnomous Methods\bin\Debug\netcoreapp3.0\Anonnomous Methods.runtimeconfig.json
+C:\Users\cmacl\source\repos\Anonnomous Methods\bin\Debug\netcoreapp3.0\Anonnomous Methods.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Anonnomous Methods\bin\Debug\netcoreapp3.0\Anonnomous Methods.dll
+C:\Users\cmacl\source\repos\Anonnomous Methods\bin\Debug\netcoreapp3.0\Anonnomous Methods.pdb
+C:\Users\cmacl\source\repos\Anonnomous Methods\obj\Debug\netcoreapp3.0\Anonnomous Methods.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Anonnomous Methods\obj\Debug\netcoreapp3.0\Anonnomous Methods.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Anonnomous Methods\obj\Debug\netcoreapp3.0\Anonnomous Methods.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Anonnomous Methods\obj\Debug\netcoreapp3.0\Anonnomous Methods.dll
+C:\Users\cmacl\source\repos\Anonnomous Methods\obj\Debug\netcoreapp3.0\Anonnomous Methods.pdb

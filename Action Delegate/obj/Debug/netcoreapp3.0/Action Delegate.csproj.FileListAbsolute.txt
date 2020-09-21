@@ -1,0 +1,11 @@
+C:\Users\cmacl\source\repos\Action Delegate\bin\Debug\netcoreapp3.0\Action Delegate.exe
+C:\Users\cmacl\source\repos\Action Delegate\bin\Debug\netcoreapp3.0\Action Delegate.deps.json
+C:\Users\cmacl\source\repos\Action Delegate\bin\Debug\netcoreapp3.0\Action Delegate.runtimeconfig.json
+C:\Users\cmacl\source\repos\Action Delegate\bin\Debug\netcoreapp3.0\Action Delegate.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Action Delegate\bin\Debug\netcoreapp3.0\Action Delegate.dll
+C:\Users\cmacl\source\repos\Action Delegate\bin\Debug\netcoreapp3.0\Action Delegate.pdb
+C:\Users\cmacl\source\repos\Action Delegate\obj\Debug\netcoreapp3.0\Action Delegate.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Action Delegate\obj\Debug\netcoreapp3.0\Action Delegate.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Action Delegate\obj\Debug\netcoreapp3.0\Action Delegate.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Action Delegate\obj\Debug\netcoreapp3.0\Action Delegate.dll
+C:\Users\cmacl\source\repos\Action Delegate\obj\Debug\netcoreapp3.0\Action Delegate.pdb
