@@ -1,0 +1,6 @@
+C:\Users\cmacl\source\repos\Dynamic Keyword\bin\Debug\Dynamic Keyword.exe.config
+C:\Users\cmacl\source\repos\Dynamic Keyword\bin\Debug\Dynamic Keyword.exe
+C:\Users\cmacl\source\repos\Dynamic Keyword\bin\Debug\Dynamic Keyword.pdb
+C:\Users\cmacl\source\repos\Dynamic Keyword\obj\Debug\Dynamic Keyword.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\Dynamic Keyword\obj\Debug\Dynamic Keyword.exe
+C:\Users\cmacl\source\repos\Dynamic Keyword\obj\Debug\Dynamic Keyword.pdb

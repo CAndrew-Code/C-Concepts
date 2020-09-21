@@ -1,0 +1,6 @@
+C:\Users\cmacl\source\repos\destructor\bin\Debug\destructor.exe.config
+C:\Users\cmacl\source\repos\destructor\bin\Debug\destructor.exe
+C:\Users\cmacl\source\repos\destructor\bin\Debug\destructor.pdb
+C:\Users\cmacl\source\repos\destructor\obj\Debug\destructor.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\destructor\obj\Debug\destructor.exe
+C:\Users\cmacl\source\repos\destructor\obj\Debug\destructor.pdb

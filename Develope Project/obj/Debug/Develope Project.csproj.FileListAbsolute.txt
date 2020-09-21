@@ -1,0 +1,6 @@
+C:\Users\cmacl\source\repos\Develope Project\bin\Debug\Develope Project.dll
+C:\Users\cmacl\source\repos\Develope Project\bin\Debug\Develope Project.pdb
+C:\Users\cmacl\source\repos\Develope Project\obj\Debug\Develope Project.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Develope Project\obj\Debug\Develope Project.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\Develope Project\obj\Debug\Develope Project.dll
+C:\Users\cmacl\source\repos\Develope Project\obj\Debug\Develope Project.pdb
