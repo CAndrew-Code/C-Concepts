@@ -1,0 +1,12 @@
+C:\Users\cmacl\source\repos\Creating Threads\bin\Debug\netcoreapp3.1\Creating Threads.exe
+C:\Users\cmacl\source\repos\Creating Threads\bin\Debug\netcoreapp3.1\Creating Threads.deps.json
+C:\Users\cmacl\source\repos\Creating Threads\bin\Debug\netcoreapp3.1\Creating Threads.runtimeconfig.json
+C:\Users\cmacl\source\repos\Creating Threads\bin\Debug\netcoreapp3.1\Creating Threads.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Creating Threads\bin\Debug\netcoreapp3.1\Creating Threads.dll
+C:\Users\cmacl\source\repos\Creating Threads\bin\Debug\netcoreapp3.1\Creating Threads.pdb
+C:\Users\cmacl\source\repos\Creating Threads\obj\Debug\netcoreapp3.1\Creating Threads.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Creating Threads\obj\Debug\netcoreapp3.1\Creating Threads.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Creating Threads\obj\Debug\netcoreapp3.1\Creating Threads.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\Creating Threads\obj\Debug\netcoreapp3.1\Creating Threads.dll
+C:\Users\cmacl\source\repos\Creating Threads\obj\Debug\netcoreapp3.1\Creating Threads.pdb
+C:\Users\cmacl\source\repos\Creating Threads\obj\Debug\netcoreapp3.1\Creating Threads.genruntimeconfig.cache

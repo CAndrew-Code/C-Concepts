@@ -1,0 +1,7 @@
+C:\Users\cmacl\source\repos\Custom Attributes\bin\Debug\Custom Attributes.exe.config
+C:\Users\cmacl\source\repos\Custom Attributes\bin\Debug\Custom Attributes.exe
+C:\Users\cmacl\source\repos\Custom Attributes\bin\Debug\Custom Attributes.pdb
+C:\Users\cmacl\source\repos\Custom Attributes\obj\Debug\Custom Attributes.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Custom Attributes\obj\Debug\Custom Attributes.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\Custom Attributes\obj\Debug\Custom Attributes.exe
+C:\Users\cmacl\source\repos\Custom Attributes\obj\Debug\Custom Attributes.pdb

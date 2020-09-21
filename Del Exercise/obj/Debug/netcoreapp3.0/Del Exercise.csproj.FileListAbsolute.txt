@@ -1,0 +1,11 @@
+C:\Users\cmacl\source\repos\Del Exercise\bin\Debug\netcoreapp3.0\Del Exercise.exe
+C:\Users\cmacl\source\repos\Del Exercise\bin\Debug\netcoreapp3.0\Del Exercise.deps.json
+C:\Users\cmacl\source\repos\Del Exercise\bin\Debug\netcoreapp3.0\Del Exercise.runtimeconfig.json
+C:\Users\cmacl\source\repos\Del Exercise\bin\Debug\netcoreapp3.0\Del Exercise.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Del Exercise\bin\Debug\netcoreapp3.0\Del Exercise.dll
+C:\Users\cmacl\source\repos\Del Exercise\bin\Debug\netcoreapp3.0\Del Exercise.pdb
+C:\Users\cmacl\source\repos\Del Exercise\obj\Debug\netcoreapp3.0\Del Exercise.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Del Exercise\obj\Debug\netcoreapp3.0\Del Exercise.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Del Exercise\obj\Debug\netcoreapp3.0\Del Exercise.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Del Exercise\obj\Debug\netcoreapp3.0\Del Exercise.dll
+C:\Users\cmacl\source\repos\Del Exercise\obj\Debug\netcoreapp3.0\Del Exercise.pdb

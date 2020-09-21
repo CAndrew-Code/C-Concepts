@@ -1,0 +1,12 @@
+C:\Users\cmacl\source\repos\Deadlocks and Locks\bin\Debug\netcoreapp3.1\Deadlocks and Locks.exe
+C:\Users\cmacl\source\repos\Deadlocks and Locks\bin\Debug\netcoreapp3.1\Deadlocks and Locks.deps.json
+C:\Users\cmacl\source\repos\Deadlocks and Locks\bin\Debug\netcoreapp3.1\Deadlocks and Locks.runtimeconfig.json
+C:\Users\cmacl\source\repos\Deadlocks and Locks\bin\Debug\netcoreapp3.1\Deadlocks and Locks.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Deadlocks and Locks\bin\Debug\netcoreapp3.1\Deadlocks and Locks.dll
+C:\Users\cmacl\source\repos\Deadlocks and Locks\bin\Debug\netcoreapp3.1\Deadlocks and Locks.pdb
+C:\Users\cmacl\source\repos\Deadlocks and Locks\obj\Debug\netcoreapp3.1\Deadlocks and Locks.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Deadlocks and Locks\obj\Debug\netcoreapp3.1\Deadlocks and Locks.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Deadlocks and Locks\obj\Debug\netcoreapp3.1\Deadlocks and Locks.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\Deadlocks and Locks\obj\Debug\netcoreapp3.1\Deadlocks and Locks.dll
+C:\Users\cmacl\source\repos\Deadlocks and Locks\obj\Debug\netcoreapp3.1\Deadlocks and Locks.pdb
+C:\Users\cmacl\source\repos\Deadlocks and Locks\obj\Debug\netcoreapp3.1\Deadlocks and Locks.genruntimeconfig.cache
