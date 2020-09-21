@@ -1,0 +1,13 @@
+C:\Users\cmacl\source\repos\Async and Await\bin\Debug\netcoreapp3.1\Async and Await.exe
+C:\Users\cmacl\source\repos\Async and Await\bin\Debug\netcoreapp3.1\Async and Await.deps.json
+C:\Users\cmacl\source\repos\Async and Await\bin\Debug\netcoreapp3.1\Async and Await.runtimeconfig.json
+C:\Users\cmacl\source\repos\Async and Await\bin\Debug\netcoreapp3.1\Async and Await.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Async and Await\bin\Debug\netcoreapp3.1\Async and Await.dll
+C:\Users\cmacl\source\repos\Async and Await\bin\Debug\netcoreapp3.1\Async and Await.pdb
+C:\Users\cmacl\source\repos\Async and Await\obj\Debug\netcoreapp3.1\Async and Await.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Async and Await\obj\Debug\netcoreapp3.1\Async and Await.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Async and Await\obj\Debug\netcoreapp3.1\Async and Await.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Async and Await\obj\Debug\netcoreapp3.1\Async and Await.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\Async and Await\obj\Debug\netcoreapp3.1\Async and Await.dll
+C:\Users\cmacl\source\repos\Async and Await\obj\Debug\netcoreapp3.1\Async and Await.pdb
+C:\Users\cmacl\source\repos\Async and Await\obj\Debug\netcoreapp3.1\Async and Await.genruntimeconfig.cache
