@@ -1,0 +1,10 @@
+C:\Users\cmacl\source\repos\bitarray\bitarray\bin\Debug\netcoreapp3.0\bitarray.exe
+C:\Users\cmacl\source\repos\bitarray\bitarray\bin\Debug\netcoreapp3.0\bitarray.deps.json
+C:\Users\cmacl\source\repos\bitarray\bitarray\bin\Debug\netcoreapp3.0\bitarray.runtimeconfig.json
+C:\Users\cmacl\source\repos\bitarray\bitarray\bin\Debug\netcoreapp3.0\bitarray.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\bitarray\bitarray\bin\Debug\netcoreapp3.0\bitarray.dll
+C:\Users\cmacl\source\repos\bitarray\bitarray\bin\Debug\netcoreapp3.0\bitarray.pdb
+C:\Users\cmacl\source\repos\bitarray\bitarray\obj\Debug\netcoreapp3.0\bitarray.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\bitarray\bitarray\obj\Debug\netcoreapp3.0\bitarray.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\bitarray\bitarray\obj\Debug\netcoreapp3.0\bitarray.dll
+C:\Users\cmacl\source\repos\bitarray\bitarray\obj\Debug\netcoreapp3.0\bitarray.pdb

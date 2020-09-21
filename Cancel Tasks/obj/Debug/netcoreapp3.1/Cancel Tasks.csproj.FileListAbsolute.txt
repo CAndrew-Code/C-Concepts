@@ -1,0 +1,13 @@
+C:\Users\cmacl\source\repos\Cancel Tasks\bin\Debug\netcoreapp3.1\Cancel Tasks.exe
+C:\Users\cmacl\source\repos\Cancel Tasks\bin\Debug\netcoreapp3.1\Cancel Tasks.deps.json
+C:\Users\cmacl\source\repos\Cancel Tasks\bin\Debug\netcoreapp3.1\Cancel Tasks.runtimeconfig.json
+C:\Users\cmacl\source\repos\Cancel Tasks\bin\Debug\netcoreapp3.1\Cancel Tasks.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Cancel Tasks\bin\Debug\netcoreapp3.1\Cancel Tasks.dll
+C:\Users\cmacl\source\repos\Cancel Tasks\bin\Debug\netcoreapp3.1\Cancel Tasks.pdb
+C:\Users\cmacl\source\repos\Cancel Tasks\obj\Debug\netcoreapp3.1\Cancel Tasks.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Cancel Tasks\obj\Debug\netcoreapp3.1\Cancel Tasks.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Cancel Tasks\obj\Debug\netcoreapp3.1\Cancel Tasks.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Cancel Tasks\obj\Debug\netcoreapp3.1\Cancel Tasks.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\Cancel Tasks\obj\Debug\netcoreapp3.1\Cancel Tasks.dll
+C:\Users\cmacl\source\repos\Cancel Tasks\obj\Debug\netcoreapp3.1\Cancel Tasks.pdb
+C:\Users\cmacl\source\repos\Cancel Tasks\obj\Debug\netcoreapp3.1\Cancel Tasks.genruntimeconfig.cache
