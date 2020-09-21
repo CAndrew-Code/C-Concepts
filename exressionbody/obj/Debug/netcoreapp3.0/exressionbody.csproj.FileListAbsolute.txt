@@ -1,0 +1,10 @@
+C:\Users\cmacl\source\repos\exressionbody\bin\Debug\netcoreapp3.0\exressionbody.exe
+C:\Users\cmacl\source\repos\exressionbody\bin\Debug\netcoreapp3.0\exressionbody.deps.json
+C:\Users\cmacl\source\repos\exressionbody\bin\Debug\netcoreapp3.0\exressionbody.runtimeconfig.json
+C:\Users\cmacl\source\repos\exressionbody\bin\Debug\netcoreapp3.0\exressionbody.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\exressionbody\bin\Debug\netcoreapp3.0\exressionbody.dll
+C:\Users\cmacl\source\repos\exressionbody\bin\Debug\netcoreapp3.0\exressionbody.pdb
+C:\Users\cmacl\source\repos\exressionbody\obj\Debug\netcoreapp3.0\exressionbody.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\exressionbody\obj\Debug\netcoreapp3.0\exressionbody.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\exressionbody\obj\Debug\netcoreapp3.0\exressionbody.dll
+C:\Users\cmacl\source\repos\exressionbody\obj\Debug\netcoreapp3.0\exressionbody.pdb

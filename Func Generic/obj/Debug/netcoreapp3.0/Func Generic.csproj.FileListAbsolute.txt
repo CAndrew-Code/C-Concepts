@@ -1,0 +1,10 @@
+C:\Users\cmacl\source\repos\Func Generic\bin\Debug\netcoreapp3.0\Func Generic.exe
+C:\Users\cmacl\source\repos\Func Generic\bin\Debug\netcoreapp3.0\Func Generic.deps.json
+C:\Users\cmacl\source\repos\Func Generic\bin\Debug\netcoreapp3.0\Func Generic.runtimeconfig.json
+C:\Users\cmacl\source\repos\Func Generic\bin\Debug\netcoreapp3.0\Func Generic.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Func Generic\bin\Debug\netcoreapp3.0\Func Generic.dll
+C:\Users\cmacl\source\repos\Func Generic\bin\Debug\netcoreapp3.0\Func Generic.pdb
+C:\Users\cmacl\source\repos\Func Generic\obj\Debug\netcoreapp3.0\Func Generic.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Func Generic\obj\Debug\netcoreapp3.0\Func Generic.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Func Generic\obj\Debug\netcoreapp3.0\Func Generic.dll
+C:\Users\cmacl\source\repos\Func Generic\obj\Debug\netcoreapp3.0\Func Generic.pdb
