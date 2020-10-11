@@ -1,0 +1,13 @@
+C:\Users\cmacl\source\repos\Mutex\bin\Debug\netcoreapp3.1\Mutex.exe
+C:\Users\cmacl\source\repos\Mutex\bin\Debug\netcoreapp3.1\Mutex.deps.json
+C:\Users\cmacl\source\repos\Mutex\bin\Debug\netcoreapp3.1\Mutex.runtimeconfig.json
+C:\Users\cmacl\source\repos\Mutex\bin\Debug\netcoreapp3.1\Mutex.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Mutex\bin\Debug\netcoreapp3.1\Mutex.dll
+C:\Users\cmacl\source\repos\Mutex\bin\Debug\netcoreapp3.1\Mutex.pdb
+C:\Users\cmacl\source\repos\Mutex\obj\Debug\netcoreapp3.1\Mutex.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Mutex\obj\Debug\netcoreapp3.1\Mutex.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Mutex\obj\Debug\netcoreapp3.1\Mutex.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\Mutex\obj\Debug\netcoreapp3.1\Mutex.dll
+C:\Users\cmacl\source\repos\Mutex\obj\Debug\netcoreapp3.1\Mutex.pdb
+C:\Users\cmacl\source\repos\Mutex\obj\Debug\netcoreapp3.1\Mutex.genruntimeconfig.cache
+C:\Users\cmacl\source\repos\Mutex\obj\Debug\netcoreapp3.1\Mutex.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\cmacl\source\repos\Multi-dimensional Array\bin\Debug\Multi-dimensional Array.exe.config
+C:\Users\cmacl\source\repos\Multi-dimensional Array\bin\Debug\Multi-dimensional Array.exe
+C:\Users\cmacl\source\repos\Multi-dimensional Array\bin\Debug\Multi-dimensional Array.pdb
+C:\Users\cmacl\source\repos\Multi-dimensional Array\obj\Debug\Multi-dimensional Array.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\Multi-dimensional Array\obj\Debug\Multi-dimensional Array.exe
+C:\Users\cmacl\source\repos\Multi-dimensional Array\obj\Debug\Multi-dimensional Array.pdb
+C:\Users\cmacl\source\repos\Multi-dimensional Array\obj\Debug\Multi-dimensional Array.csprojAssemblyReference.cache

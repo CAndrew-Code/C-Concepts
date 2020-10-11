@@ -1,0 +1,11 @@
+C:\Users\cmacl\source\repos\method syntax of LINQ\obj\Debug\netcoreapp3.0\method syntax of LINQ.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\method syntax of LINQ\obj\Debug\netcoreapp3.0\method syntax of LINQ.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\method syntax of LINQ\bin\Debug\netcoreapp3.0\method syntax of LINQ.exe
+C:\Users\cmacl\source\repos\method syntax of LINQ\bin\Debug\netcoreapp3.0\method syntax of LINQ.deps.json
+C:\Users\cmacl\source\repos\method syntax of LINQ\bin\Debug\netcoreapp3.0\method syntax of LINQ.runtimeconfig.json
+C:\Users\cmacl\source\repos\method syntax of LINQ\bin\Debug\netcoreapp3.0\method syntax of LINQ.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\method syntax of LINQ\bin\Debug\netcoreapp3.0\method syntax of LINQ.dll
+C:\Users\cmacl\source\repos\method syntax of LINQ\bin\Debug\netcoreapp3.0\method syntax of LINQ.pdb
+C:\Users\cmacl\source\repos\method syntax of LINQ\obj\Debug\netcoreapp3.0\method syntax of LINQ.dll
+C:\Users\cmacl\source\repos\method syntax of LINQ\obj\Debug\netcoreapp3.0\method syntax of LINQ.pdb
+C:\Users\cmacl\source\repos\method syntax of LINQ\obj\Debug\netcoreapp3.0\method syntax of LINQ.csprojAssemblyReference.cache
