@@ -1,0 +1,11 @@
+C:\Users\cmacl\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.0\HashTable.exe
+C:\Users\cmacl\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.0\HashTable.deps.json
+C:\Users\cmacl\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.0\HashTable.runtimeconfig.json
+C:\Users\cmacl\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.0\HashTable.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.0\HashTable.dll
+C:\Users\cmacl\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.0\HashTable.pdb
+C:\Users\cmacl\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.0\HashTable.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.0\HashTable.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.0\HashTable.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.0\HashTable.dll
+C:\Users\cmacl\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.0\HashTable.pdb
