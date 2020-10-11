@@ -1,0 +1,10 @@
+C:\Users\cmacl\source\repos\Lambda Generic\bin\Debug\netcoreapp3.0\Lambda Generic.exe
+C:\Users\cmacl\source\repos\Lambda Generic\bin\Debug\netcoreapp3.0\Lambda Generic.deps.json
+C:\Users\cmacl\source\repos\Lambda Generic\bin\Debug\netcoreapp3.0\Lambda Generic.runtimeconfig.json
+C:\Users\cmacl\source\repos\Lambda Generic\bin\Debug\netcoreapp3.0\Lambda Generic.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Lambda Generic\bin\Debug\netcoreapp3.0\Lambda Generic.dll
+C:\Users\cmacl\source\repos\Lambda Generic\bin\Debug\netcoreapp3.0\Lambda Generic.pdb
+C:\Users\cmacl\source\repos\Lambda Generic\obj\Debug\netcoreapp3.0\Lambda Generic.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Lambda Generic\obj\Debug\netcoreapp3.0\Lambda Generic.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Lambda Generic\obj\Debug\netcoreapp3.0\Lambda Generic.dll
+C:\Users\cmacl\source\repos\Lambda Generic\obj\Debug\netcoreapp3.0\Lambda Generic.pdb

@@ -1,0 +1,10 @@
+C:\Users\cmacl\source\repos\Lambda Expressions\bin\Debug\netcoreapp3.0\Lambda Expressions.exe
+C:\Users\cmacl\source\repos\Lambda Expressions\bin\Debug\netcoreapp3.0\Lambda Expressions.deps.json
+C:\Users\cmacl\source\repos\Lambda Expressions\bin\Debug\netcoreapp3.0\Lambda Expressions.runtimeconfig.json
+C:\Users\cmacl\source\repos\Lambda Expressions\bin\Debug\netcoreapp3.0\Lambda Expressions.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Lambda Expressions\bin\Debug\netcoreapp3.0\Lambda Expressions.dll
+C:\Users\cmacl\source\repos\Lambda Expressions\bin\Debug\netcoreapp3.0\Lambda Expressions.pdb
+C:\Users\cmacl\source\repos\Lambda Expressions\obj\Debug\netcoreapp3.0\Lambda Expressions.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Lambda Expressions\obj\Debug\netcoreapp3.0\Lambda Expressions.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Lambda Expressions\obj\Debug\netcoreapp3.0\Lambda Expressions.dll
+C:\Users\cmacl\source\repos\Lambda Expressions\obj\Debug\netcoreapp3.0\Lambda Expressions.pdb
