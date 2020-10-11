@@ -1,0 +1,11 @@
+C:\Users\cmacl\source\repos\Nested value tuples\Nested value tuples\bin\Debug\netcoreapp3.0\Nested value tuples.exe
+C:\Users\cmacl\source\repos\Nested value tuples\Nested value tuples\bin\Debug\netcoreapp3.0\Nested value tuples.deps.json
+C:\Users\cmacl\source\repos\Nested value tuples\Nested value tuples\bin\Debug\netcoreapp3.0\Nested value tuples.runtimeconfig.json
+C:\Users\cmacl\source\repos\Nested value tuples\Nested value tuples\bin\Debug\netcoreapp3.0\Nested value tuples.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Nested value tuples\Nested value tuples\bin\Debug\netcoreapp3.0\Nested value tuples.dll
+C:\Users\cmacl\source\repos\Nested value tuples\Nested value tuples\bin\Debug\netcoreapp3.0\Nested value tuples.pdb
+C:\Users\cmacl\source\repos\Nested value tuples\Nested value tuples\obj\Debug\netcoreapp3.0\Nested value tuples.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Nested value tuples\Nested value tuples\obj\Debug\netcoreapp3.0\Nested value tuples.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Nested value tuples\Nested value tuples\obj\Debug\netcoreapp3.0\Nested value tuples.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Nested value tuples\Nested value tuples\obj\Debug\netcoreapp3.0\Nested value tuples.dll
+C:\Users\cmacl\source\repos\Nested value tuples\Nested value tuples\obj\Debug\netcoreapp3.0\Nested value tuples.pdb

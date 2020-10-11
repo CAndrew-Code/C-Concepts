@@ -1,0 +1,11 @@
+C:\Users\cmacl\source\repos\nullable types\bin\Debug\netcoreapp3.0\nullable types.exe
+C:\Users\cmacl\source\repos\nullable types\bin\Debug\netcoreapp3.0\nullable types.deps.json
+C:\Users\cmacl\source\repos\nullable types\bin\Debug\netcoreapp3.0\nullable types.runtimeconfig.json
+C:\Users\cmacl\source\repos\nullable types\bin\Debug\netcoreapp3.0\nullable types.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\nullable types\bin\Debug\netcoreapp3.0\nullable types.dll
+C:\Users\cmacl\source\repos\nullable types\bin\Debug\netcoreapp3.0\nullable types.pdb
+C:\Users\cmacl\source\repos\nullable types\obj\Debug\netcoreapp3.0\nullable types.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\nullable types\obj\Debug\netcoreapp3.0\nullable types.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\nullable types\obj\Debug\netcoreapp3.0\nullable types.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\nullable types\obj\Debug\netcoreapp3.0\nullable types.dll
+C:\Users\cmacl\source\repos\nullable types\obj\Debug\netcoreapp3.0\nullable types.pdb
