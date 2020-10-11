@@ -1,0 +1,7 @@
+C:\Users\cmacl\source\repos\IEnumeral and IEnumerator\bin\Debug\IEnumeral and IEnumerator.exe.config
+C:\Users\cmacl\source\repos\IEnumeral and IEnumerator\bin\Debug\IEnumeral and IEnumerator.exe
+C:\Users\cmacl\source\repos\IEnumeral and IEnumerator\bin\Debug\IEnumeral and IEnumerator.pdb
+C:\Users\cmacl\source\repos\IEnumeral and IEnumerator\obj\Debug\IEnumeral and IEnumerator.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\IEnumeral and IEnumerator\obj\Debug\IEnumeral and IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\IEnumeral and IEnumerator\obj\Debug\IEnumeral and IEnumerator.exe
+C:\Users\cmacl\source\repos\IEnumeral and IEnumerator\obj\Debug\IEnumeral and IEnumerator.pdb
