@@ -1,0 +1,11 @@
+C:\Users\cmacl\source\repos\Generic Arguments\bin\Debug\netcoreapp3.0\Generic Arguments.exe
+C:\Users\cmacl\source\repos\Generic Arguments\bin\Debug\netcoreapp3.0\Generic Arguments.deps.json
+C:\Users\cmacl\source\repos\Generic Arguments\bin\Debug\netcoreapp3.0\Generic Arguments.runtimeconfig.json
+C:\Users\cmacl\source\repos\Generic Arguments\bin\Debug\netcoreapp3.0\Generic Arguments.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Generic Arguments\bin\Debug\netcoreapp3.0\Generic Arguments.dll
+C:\Users\cmacl\source\repos\Generic Arguments\bin\Debug\netcoreapp3.0\Generic Arguments.pdb
+C:\Users\cmacl\source\repos\Generic Arguments\obj\Debug\netcoreapp3.0\Generic Arguments.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Generic Arguments\obj\Debug\netcoreapp3.0\Generic Arguments.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Generic Arguments\obj\Debug\netcoreapp3.0\Generic Arguments.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Generic Arguments\obj\Debug\netcoreapp3.0\Generic Arguments.dll
+C:\Users\cmacl\source\repos\Generic Arguments\obj\Debug\netcoreapp3.0\Generic Arguments.pdb

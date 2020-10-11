@@ -1,0 +1,11 @@
+C:\Users\cmacl\source\repos\Generic Delegates\bin\Debug\netcoreapp3.0\Generic Delegates.exe
+C:\Users\cmacl\source\repos\Generic Delegates\bin\Debug\netcoreapp3.0\Generic Delegates.deps.json
+C:\Users\cmacl\source\repos\Generic Delegates\bin\Debug\netcoreapp3.0\Generic Delegates.runtimeconfig.json
+C:\Users\cmacl\source\repos\Generic Delegates\bin\Debug\netcoreapp3.0\Generic Delegates.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Generic Delegates\bin\Debug\netcoreapp3.0\Generic Delegates.dll
+C:\Users\cmacl\source\repos\Generic Delegates\bin\Debug\netcoreapp3.0\Generic Delegates.pdb
+C:\Users\cmacl\source\repos\Generic Delegates\obj\Debug\netcoreapp3.0\Generic Delegates.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Generic Delegates\obj\Debug\netcoreapp3.0\Generic Delegates.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Generic Delegates\obj\Debug\netcoreapp3.0\Generic Delegates.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Generic Delegates\obj\Debug\netcoreapp3.0\Generic Delegates.dll
+C:\Users\cmacl\source\repos\Generic Delegates\obj\Debug\netcoreapp3.0\Generic Delegates.pdb
