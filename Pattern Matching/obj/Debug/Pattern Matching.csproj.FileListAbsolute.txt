@@ -1,0 +1,7 @@
+C:\Users\cmacl\source\repos\Pattern Matching\obj\Debug\Pattern Matching.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Pattern Matching\obj\Debug\Pattern Matching.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\Pattern Matching\bin\Debug\Pattern Matching.exe.config
+C:\Users\cmacl\source\repos\Pattern Matching\bin\Debug\Pattern Matching.exe
+C:\Users\cmacl\source\repos\Pattern Matching\bin\Debug\Pattern Matching.pdb
+C:\Users\cmacl\source\repos\Pattern Matching\obj\Debug\Pattern Matching.exe
+C:\Users\cmacl\source\repos\Pattern Matching\obj\Debug\Pattern Matching.pdb

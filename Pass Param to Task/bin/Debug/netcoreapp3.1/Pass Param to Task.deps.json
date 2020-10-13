@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pass Param to Task/1.0.0": {
+        "runtime": {
+          "Pass Param to Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pass Param to Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

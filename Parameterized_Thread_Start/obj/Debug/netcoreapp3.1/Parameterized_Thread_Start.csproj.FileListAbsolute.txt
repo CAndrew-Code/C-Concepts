@@ -1,0 +1,13 @@
+C:\Users\cmacl\source\repos\Parameterized_Thread_Start\bin\Debug\netcoreapp3.1\Parameterized_Thread_Start.exe
+C:\Users\cmacl\source\repos\Parameterized_Thread_Start\bin\Debug\netcoreapp3.1\Parameterized_Thread_Start.deps.json
+C:\Users\cmacl\source\repos\Parameterized_Thread_Start\bin\Debug\netcoreapp3.1\Parameterized_Thread_Start.runtimeconfig.json
+C:\Users\cmacl\source\repos\Parameterized_Thread_Start\bin\Debug\netcoreapp3.1\Parameterized_Thread_Start.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Parameterized_Thread_Start\bin\Debug\netcoreapp3.1\Parameterized_Thread_Start.dll
+C:\Users\cmacl\source\repos\Parameterized_Thread_Start\bin\Debug\netcoreapp3.1\Parameterized_Thread_Start.pdb
+C:\Users\cmacl\source\repos\Parameterized_Thread_Start\obj\Debug\netcoreapp3.1\Parameterized_Thread_Start.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Parameterized_Thread_Start\obj\Debug\netcoreapp3.1\Parameterized_Thread_Start.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Parameterized_Thread_Start\obj\Debug\netcoreapp3.1\Parameterized_Thread_Start.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Parameterized_Thread_Start\obj\Debug\netcoreapp3.1\Parameterized_Thread_Start.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\Parameterized_Thread_Start\obj\Debug\netcoreapp3.1\Parameterized_Thread_Start.dll
+C:\Users\cmacl\source\repos\Parameterized_Thread_Start\obj\Debug\netcoreapp3.1\Parameterized_Thread_Start.pdb
+C:\Users\cmacl\source\repos\Parameterized_Thread_Start\obj\Debug\netcoreapp3.1\Parameterized_Thread_Start.genruntimeconfig.cache

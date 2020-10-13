@@ -1,0 +1,10 @@
+C:\Users\cmacl\source\repos\params keyword\bin\Debug\netcoreapp3.0\params keyword.exe
+C:\Users\cmacl\source\repos\params keyword\bin\Debug\netcoreapp3.0\params keyword.deps.json
+C:\Users\cmacl\source\repos\params keyword\bin\Debug\netcoreapp3.0\params keyword.runtimeconfig.json
+C:\Users\cmacl\source\repos\params keyword\bin\Debug\netcoreapp3.0\params keyword.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\params keyword\bin\Debug\netcoreapp3.0\params keyword.dll
+C:\Users\cmacl\source\repos\params keyword\bin\Debug\netcoreapp3.0\params keyword.pdb
+C:\Users\cmacl\source\repos\params keyword\obj\Debug\netcoreapp3.0\params keyword.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\params keyword\obj\Debug\netcoreapp3.0\params keyword.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\params keyword\obj\Debug\netcoreapp3.0\params keyword.dll
+C:\Users\cmacl\source\repos\params keyword\obj\Debug\netcoreapp3.0\params keyword.pdb

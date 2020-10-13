@@ -1,0 +1,13 @@
+C:\Users\cmacl\source\repos\Pass Param to Task\bin\Debug\netcoreapp3.1\Pass Param to Task.exe
+C:\Users\cmacl\source\repos\Pass Param to Task\bin\Debug\netcoreapp3.1\Pass Param to Task.deps.json
+C:\Users\cmacl\source\repos\Pass Param to Task\bin\Debug\netcoreapp3.1\Pass Param to Task.runtimeconfig.json
+C:\Users\cmacl\source\repos\Pass Param to Task\bin\Debug\netcoreapp3.1\Pass Param to Task.runtimeconfig.dev.json
+C:\Users\cmacl\source\repos\Pass Param to Task\bin\Debug\netcoreapp3.1\Pass Param to Task.dll
+C:\Users\cmacl\source\repos\Pass Param to Task\bin\Debug\netcoreapp3.1\Pass Param to Task.pdb
+C:\Users\cmacl\source\repos\Pass Param to Task\obj\Debug\netcoreapp3.1\Pass Param to Task.csprojAssemblyReference.cache
+C:\Users\cmacl\source\repos\Pass Param to Task\obj\Debug\netcoreapp3.1\Pass Param to Task.AssemblyInfoInputs.cache
+C:\Users\cmacl\source\repos\Pass Param to Task\obj\Debug\netcoreapp3.1\Pass Param to Task.AssemblyInfo.cs
+C:\Users\cmacl\source\repos\Pass Param to Task\obj\Debug\netcoreapp3.1\Pass Param to Task.csproj.CoreCompileInputs.cache
+C:\Users\cmacl\source\repos\Pass Param to Task\obj\Debug\netcoreapp3.1\Pass Param to Task.dll
+C:\Users\cmacl\source\repos\Pass Param to Task\obj\Debug\netcoreapp3.1\Pass Param to Task.pdb
+C:\Users\cmacl\source\repos\Pass Param to Task\obj\Debug\netcoreapp3.1\Pass Param to Task.genruntimeconfig.cache
